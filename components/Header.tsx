@@ -13,7 +13,7 @@ export function Header() {
     <header className="bg-white py-4 shadow-sm">
       <div className="container mx-auto px-4 flex justify-between items-center">
         <Link href="/">
-          <Image src="/logo.png" width={52} height={56} alt="Sincero logo" />
+          <Image src="/logo_yellow.png" width={52} height={56} alt="Sincero logo" />
         </Link>
         <nav className="hidden md:flex gap-6">
           <Link href="#about" className="text-black hover:text-gray-600 transition-colors">About</Link>
