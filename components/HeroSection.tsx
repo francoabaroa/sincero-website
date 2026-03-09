@@ -131,7 +131,7 @@ export function HeroSection() {
             style={{
               fontFamily: 'var(--font-syne)',
               fontWeight: 800,
-              fontSize: 'clamp(4.5rem, 14vw, 13rem)',
+              fontSize: 'clamp(2rem, 14vw, 13rem)',
               lineHeight: 0.88,
               letterSpacing: '-0.03em',
               color: 'var(--text)',
